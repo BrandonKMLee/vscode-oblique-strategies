@@ -167,5 +167,4 @@ export const strategies =
     'You are an engineer',
     'You can only make one dot at a time',
     'You don\'t have to be ashamed of using your own ideas',
-   
 ];
